@@ -96,6 +96,7 @@ span{
 .col-left h1{
     font-size: 62px;
     line-height: 1.2;
+    margin-bottom: 20px;
 
 }
 
@@ -103,7 +104,7 @@ span{
     width:345px;
     display: flex;
     gap:2em;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .btn-1{
     padding: 15px 28px;
@@ -173,6 +174,9 @@ span{
     padding: 80px 0;
     color: #ababab ;
     background-color: black;
+}
+.p{
+    line-height: 1.2;
 }
 .row{
     display:flex;
